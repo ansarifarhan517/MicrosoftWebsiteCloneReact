@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48f89468.css",
+    "main.js": "/static/js/main.516288ff.js",
+    "static/media/laptopXbox.jpeg": "/static/media/laptopXbox.0adb7dd199bd2f6fd5e7.jpeg",
+    "static/media/gldn-XSS-Hero-Xbox-Series-S_VP2-859x540.jpeg": "/static/media/gldn-XSS-Hero-Xbox-Series-S_VP2-859x540.9e238e85ce7bfeecfeb1.jpeg",
+    "static/media/forBuiness3.webp": "/static/media/forBuiness3.02adcbb74a4541c697ff.webp",
+    "static/media/halfImg.avif": "/static/media/halfImg.25888581265a1343b963.avif",
+    "static/media/forbuisness1.avif": "/static/media/forbuisness1.d0e4dfd32f584020d470.avif",
+    "static/media/halfImage.avif": "/static/media/halfImage.43a147236f9d0b7c77d7.avif",
+    "static/media/forBuisness2.webp": "/static/media/forBuisness2.faa7ac6781381c5b34cb.webp",
+    "static/media/forBuisness4.webp": "/static/media/forBuisness4.6f64ad5df174e8f7251d.webp",
+    "index.html": "/index.html",
+    "static/media/YouTube 2x.webp": "/static/media/YouTube 2x.dc8810cc24c4c300a06b.webp",
+    "static/media/xbox.webp": "/static/media/xbox.81db6ddfefb555205dd4.webp",
+    "static/media/Facebook 2x.avif": "/static/media/Facebook 2x.7ce28ae1424c4781c6bc.avif",
+    "static/media/Twitter 2x.webp": "/static/media/Twitter 2x.b814bed4d1f4355a80c4.webp",
+    "static/media/surfacedevices.webp": "/static/media/surfacedevices.b1f402cf7b04eeda7629.webp",
+    "static/media/icon-LL-Windows-Logo-80x80.webp": "/static/media/icon-LL-Windows-Logo-80x80.8b619cbcfa7169830e88.webp",
+    "main.48f89468.css.map": "/static/css/main.48f89468.css.map",
+    "main.516288ff.js.map": "/static/js/main.516288ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f89468.css",
+    "static/js/main.516288ff.js"
+  ]
+}
